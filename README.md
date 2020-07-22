@@ -123,7 +123,7 @@
 Заведения, в которых подают бизнес-ланчи.
 
 * [Гриль-бар "Огонёк"](http://bit.ly/2ECWXsZ)
-* [Мясорубка](https://yandex.ru/maps/-/CCUr7UiQ)
+* ~~[Мясорубка](https://yandex.ru/maps/-/CCUr7UiQ)~~
 
 ---
 
